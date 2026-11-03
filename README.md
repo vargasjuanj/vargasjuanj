@@ -20,6 +20,9 @@ Desarrollador Full Stack con más de **5 años de experiencia**, especializado e
 
 ### 🏛️ Proyectos de Arquitectura & Código Abierto
 
+- 🏭 [**Factory Events Platform**](https://github.com/vargasjuanj/factory-events-platform)  
+  Plataforma Full Stack de ingesta transaccional y auditoría de eventos. Frontend modular desacoplado con **componentes dinámicos genéricos reutilizables** (tabla CRUD dinámica y formularios basados en metadatos) utilizando **programación reactiva** (**RxJS Observables / Operators**) y **Angular 18 Standalone**. Backend transaccional desacoplado con **Spring Boot 3.3**, control de concurrencia e idempotencia (**409 Conflict**), transacciones atómicas (**@Transactional**) y ProblemDetail (**RFC 7807**).
+
 - 🏦 [**Blue Bank Hexagonal API**](https://github.com/vargasjuanj/blue-bank-hexagonal-api)  
   Core bancario desarrollado con **Java 17** y **Spring Boot** bajo los principios de **Arquitectura Hexagonal (Ports & Adapters)**. Incluye transferencias con precisión monetaria (BigDecimal), transacciones ACID y persistencia desacoplada.
 
